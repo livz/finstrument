@@ -1,0 +1,1 @@
+Use -finstument-functions compile flag for gcc to compile (on demand) a separate library for tracing, and like it to a program.
